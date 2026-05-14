@@ -31,21 +31,6 @@ Git, GitHub, Docker, Redis, RESTful API
 **Business Analysis & System Design:**  
 Requirement Analysis, User Stories, BRD, SRS, Use Case Specification, Product Backlog, UML, ERD, Activity Diagram, Sequence Diagram, Use Case Diagram, SAD, ADD, ASRs, Utility Tree, Fault Tree Analysis
 
-## Featured Projects
-
-### AI-powered IELTS Practice Platform
-
-A full-stack IELTS practice platform supporting Listening, Reading, Writing, and Speaking modules with AI-assisted grading for Writing and Speaking.
-
-**Main features:**
-- IELTS test practice for four skills
-- AI-assisted Speaking and Writing evaluation
-- User attempt tracking and answer saving
-- Backend APIs for tests, attempts, grading status, and learning activities
-- Requirement and design documents such as use case specifications, activity diagrams, sequence diagrams, and ERD
-
-**Tech stack:** Next.js, TypeScript, Node.js, PostgreSQL, Docker, Redis
-
 ---
 ## Contact
 
