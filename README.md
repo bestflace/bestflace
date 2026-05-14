@@ -47,39 +47,6 @@ A full-stack IELTS practice platform supporting Listening, Reading, Writing, and
 **Tech stack:** Next.js, TypeScript, Node.js, PostgreSQL, Docker, Redis
 
 ---
-
-### Personal Finance Management System with AI Chatbot
-
-A web and mobile system for expense tracking, budget management, limit reminders, and AI chatbot-based financial queries.
-
-**Main features:**
-- Expense and income management
-- Budget limit reminders
-- AI chatbot support for financial queries
-- Web and mobile application
-- Requirement documents, UML diagrams, and ERD
-
-**Tech stack:** React.js, React Native, Node.js, JavaScript, PostgreSQL
-
----
-
-### Veterinary Store Management System
-
-An academic software architecture project for managing a veterinary medicine and animal feed distribution store.
-
-**Main responsibilities:**
-- Backend development using ASP.NET Core
-- Software architecture analysis
-- Business and architecture documentation including SAD, ADD, User Stories, Product Backlog, ASRs, Utility Tree, Fault Tree Analysis, and UML diagrams
-
-**Tech stack:** ASP.NET Core, C#, PostgreSQL
-
-## Languages
-
-- Vietnamese: Native
-- English: Intermediate communication
-- Japanese: Beginner
-
 ## Contact
 
 - Email: chivincv005@gmail.com
