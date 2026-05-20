@@ -22,15 +22,15 @@
 ## 🧭 About Me
 
 ```yaml
-name        : Nguyen Chi Vi
-university  : University of Information Technology — VNU-HCM
-major       : Software Engineering
-orientation : Business Analyst / IT Business Analyst / System Analyst
-currently   :
+Name        : Nguyen Chi Vi
+University  : University of Information Technology — VNU-HCM
+Major       : Software Engineering
+Orientation : Business Analyst / IT Business Analyst / System Analyst
+Currently   :
   - Deepening knowledge in Business Analysis & Software Architecture
   - Exploring event-driven systems and microservices
   - Learning Japanese 🇯🇵
-interests   :
+Interests   :
   - Connecting business requirements with technical implementation
   - Designing clean, scalable architectures
   - UML diagrams, system flows, and documentation
@@ -91,7 +91,7 @@ Currently aiming for roles as a **Business Analyst** or **IT Business Analyst**,
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
-*"Code is just the tool — understanding the problem is the craft."*
+*"Nothing is as important as taking up spaces in society and cementing yourself - Zozibini Tunzi."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bestflace&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS)
 
