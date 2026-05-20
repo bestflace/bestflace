@@ -80,27 +80,6 @@ interests   :
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bestflace&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=7F77DD&icon_color=9F99E8&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestflace&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=7F77DD&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bestflace&theme=tokyonight&hide_border=true&background=0f0c29&ring=7F77DD&fire=9F99E8&currStreakLabel=7F77DD" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bestflace&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8" />
-</div>
-
----
-
 ## 🔭 Career Goal
 
 > *"I want to be the bridge between business stakeholders and engineering teams —  
@@ -109,17 +88,6 @@ interests   :
 Currently aiming for roles as a **Business Analyst** or **IT Business Analyst**, where I can apply both analytical thinking and technical knowledge to deliver real business value.
 
 ---
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bestflace&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=7F77DD&line=534AB7&point=9F99E8&area=true&area_color=0f0c29" />
-</div>
-
----
-
-<div align="center">
-
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
