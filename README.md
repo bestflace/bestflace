@@ -83,36 +83,6 @@ interests   :
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bestflace&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a2e38&title_color=3ECFCF&icon_color=7ececa&text_color=b2e8e8&ring_color=1a7a7a" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestflace&layout=compact&langs_count=8&theme=merko&hide_border=true&bg_color=0a2e38&title_color=3ECFCF&text_color=b2e8e8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bestflace&theme=merko&hide_border=true&background=0a2e38&ring=3ECFCF&fire=7ececa&currStreakLabel=3ECFCF&sideLabels=7ececa&dates=b2e8e8&stroke=1a7a7a" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bestflace&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bestflace&theme=merkulov&hide_border=true&bg_color=0a2e38&color=3ECFCF&line=1a7a7a&point=7ececa&area=true&area_color=0d4f5c" />
-</div>
-
----
 
 ## 🔭 Career Goal
 
