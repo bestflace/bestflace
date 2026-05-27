@@ -93,6 +93,6 @@ Currently aiming for roles as a **Business Analyst** or **IT Business Analyst**,
 
 *"Nothing is as important as taking up spaces in society and cementing yourself - Zozibini Tunzi."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=bestflace&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS)
+[![Portfolio](https://komarev.com/ghpvc/?username=bestflace&color=7F77DD&style=for-the-badge&label=VIEW+PORTFOLIO)](https://portfolio-best-flaces-projects.vercel.app/)
 
 </div>
